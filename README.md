@@ -1,26 +1,2 @@
 # WellExplorer
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
+Source code for the web version of the WellExplorer application created by Owen Wetherbee and Mary Regina Boland in Boland Lab at the University of Pennsylvania in 2020.
